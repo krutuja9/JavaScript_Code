@@ -15,6 +15,6 @@ console.log(numberType, typeof numberType)
 
 // Boolean Method true false
 
-let age = 32;
+let age = 36;
 let booleanvalueofAge = Boolean(age);
 console.log("oolean values of age is ", booleanvalueofAge)
